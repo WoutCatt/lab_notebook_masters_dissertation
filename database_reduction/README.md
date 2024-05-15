@@ -1,1 +1,7 @@
-
+* [database_sectioning.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/database_sectioning.ipynb): Analysis of the results of the database sectioning method.
+* [generate_db_identified_proteins_sage.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/generate_db_identified_proteins_sage.ipynb): extraction of identified protein sequences from Sage search results to generate refined database with identified sequences
+* [generate_db_identified_proteins_xtandem.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/generate_db_identified_proteins_xtandem.ipynb): extraction of identified protein sequences from X!Tandem search results to generate refined database with identified sequences
+* [sage_normal_search.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/sage_normal_search.ipynb): Analysis of the results of the normal search in Sage
+* [sage_twostep_search.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/sage_twostep_search.ipynb): Analysis of the results of the two-step search in Sage
+* [xtandem_normal_search.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/xtandem_normal_search.ipynb): Analysis of the results of the normal search in X!Tandem
+* [xtandem_twostep_search.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_reduction/xtandem_twostep_search.ipynb): Analysis of the results of the two-step search in X!Tandem
