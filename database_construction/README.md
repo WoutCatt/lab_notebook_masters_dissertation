@@ -1,1 +1,2 @@
-
+* [database_construction_pp_plots.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_construction/database_construction_pp_plots.ipynb): Analysis of the P-P plots of the different database construction methods
+* [database_construction_score_distributions.ipynb](https://github.com/WoutCatt/lab_notebook_masters_dissertation/blob/main/database_construction/database_construction_score_distributions.ipynb): Analysis of the score distribution histograms of the different database construction methods
